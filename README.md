@@ -48,7 +48,6 @@ My work bridges research and production — turning advanced RAG and agent conce
 - Clean, maintainable agent patterns  
 - Converting AI experimentation into production value  
 
----
 
 ## 🛠 Tech Stack
 

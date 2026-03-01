@@ -60,7 +60,7 @@ Generative AI • Agentic AI • RAG • Machine Learning
 
 
 **Cloud & Infra**  
-Azure • Microsoft Foundry • SQL  
+Azure • Microsoft Foundry • HuggingFace • Github 
 
 
 ## 🎓 Credentials

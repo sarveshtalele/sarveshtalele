@@ -36,7 +36,7 @@ I’m an **AI Engineer**, building enterprise-scale agentic AI systems that auto
 - Architected production-ready AI agents using Azure, Microsoft Foundry SDK, MCP orchestration, LangChain, and FastAPI  
 - Designed and deployed Graph RAG systems for enterprise knowledge routing  
 - 8× Performance Awards @Tata Consultancy Services for high-impact AI delivery
-- Published 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗖𝗼𝗿𝗽𝗼𝗿𝗮𝘁𝗲 𝗠𝗲𝗺𝗼𝗿𝘆 𝗶𝗻𝘁𝗼 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗟𝗲𝘃𝗲𝗿𝗮𝗴𝗶𝗻𝗴 𝗛𝘆𝗯𝗿𝗶𝗱 𝗚𝗿𝗮𝗽𝗵-𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗥𝗔𝗚
+- Published 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗖𝗼𝗿𝗽𝗼𝗿𝗮𝘁𝗲 𝗠𝗲𝗺𝗼𝗿𝘆 𝗶𝗻𝘁𝗼 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗟𝗲𝘃𝗲𝗿𝗮𝗴𝗶𝗻𝗴 𝗛𝘆𝗯𝗿𝗶𝗱 𝗚𝗿𝗮𝗽𝗵-𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗥𝗔𝗚 research paper in company which was selected among the **Top 15 research papers**
 
 My work bridges research and production — turning advanced RAG and agent concepts into resilient, deployable systems.
 

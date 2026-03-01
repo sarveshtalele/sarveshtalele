@@ -30,7 +30,7 @@ I focus on structured architectures, measurable impact, and repeatable deploymen
 
 <h2> 👨‍💻 About Me </h2>
 
-I’m an **AI Engineer, building enterprise-scale agentic AI systems that automate SAP workflows and complex business processes.
+I’m an **AI Engineer**, building enterprise-scale agentic AI systems that automate SAP workflows and complex business processes.
 
 - Architected production-ready AI agents using Azure, Microsoft Foundry SDK, MCP orchestration, LangChain, and FastAPI  
 - Designed and deployed Graph RAG systems for enterprise knowledge routing  

@@ -53,18 +53,14 @@ My work bridges research and production — turning advanced RAG and agent conce
 ## 🛠 Tech Stack
 
 **Core Stack**  
-Python • LangChain • LangGraph • MCP • FastAPI • LlamaIndex  
+Python • LangChain • LangGraph • FastMCP • FastAPI • LlamaIndex • Streamlit • Azure Foundry SDK 
 
 **AI Systems**  
-- Generative AI
-- Agentic AI
-- RAG
-- Machine Learning  
+Generative AI • Agentic AI • RAG • Machine Learning 
+
 
 **Cloud & Infra**  
-- Azure
-- Microsoft Foundry
-- SQL  
+Azure • Microsoft Foundry • SQL  
 
 
 ## 🎓 Credentials

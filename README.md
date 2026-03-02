@@ -76,7 +76,6 @@ If you're building scalable AI agents, experimenting with RAG architectures, or 
 
 - LinkedIn: https://linkedin.com/in/sarveshtalele  
 - GitHub: https://github.com/sarveshtalele  
-- Email: talelesarvesh@gmail.com  
 
 
 **Building AI agents that work in production — reliably, measurably, and at scale.**

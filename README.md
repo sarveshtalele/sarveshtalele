@@ -1,5 +1,9 @@
 <h1> Hi, I'm Sarvesh 👋 </h1>
 
+<p align="center">
+  <img src="public/profilepic.jpeg" width="700"/>
+</p>
+
 I have designed and deployed **Production-grade Agentic AI systems with Multi-modal usecases in various domains.**
 
 If you're building AI agents that need orchestration, evaluation, governance, and scale, you're in the right place.

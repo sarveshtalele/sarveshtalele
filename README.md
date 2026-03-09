@@ -6,6 +6,9 @@
   </a>
 </p>
 
+<p align="center">
+<i>Tap on the Image to know more!!</i>
+</p>
 
 I have designed and deployed **Production-grade Agentic AI systems with Multi-modal usecases in various domains.**
 
